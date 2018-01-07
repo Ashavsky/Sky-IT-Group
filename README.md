@@ -1,12 +1,3 @@
-Predictive Analytics
-===================
+This was a repo for ongoing development on Sky IT Group'a Analytics platform.
 
-This is the repo for ongoing Sky IT Group Analytics platform development. 
-
-Contact: 
-
-Alexander Ashavsky
-
-Work: aashavsky@skyitgroup.com
-
-Personal: ashavsky@gmail.com
+The company ended up moving a different direction and outsourcing the work, and as such this is more just a proof of concept for building a correlation analysis pipeline to a BI front end (specifically QlikView).
